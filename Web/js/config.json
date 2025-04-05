@@ -1,6 +1,6 @@
 {
     "moduleList"    : 2,
-    "moduleCode"    : ["Bank1","Bank2"],
+    "moduleCode"    : ["M6","Bank2"],
     "moduleName"    : ["Module 6" ,"Bank 2"],
     "moduleVersions": [1,1],
     "verifyTest"    : [-1, -1],
