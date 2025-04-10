@@ -1,7 +1,7 @@
 {
     "moduleList"    : 2,
-    "moduleCode"    : ["Bank1","Bank2"],
-    "moduleName"    : ["Module 6" ,"Module 1"],
+    "moduleCode"    : ["Bank1","Bank2", "Tonghop"],
+    "moduleName"    : ["Module 6" ,"Module 1", "Tổng hợp thi Cục"],
     "moduleVersions": [1,1],
     "verifyTest"    : [-1, -1],
     "subPart"       : [[1],[2]]
