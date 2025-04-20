@@ -1,6 +1,6 @@
 {
     "moduleList"    : 2,
-    "moduleCode"    : ["Bank4.json", "Bank1.json"],
+    "moduleCode"    : ["Bank4", "Bank1"],
     "moduleName"    : ["Module 3", "Module 6"],
     "moduleVersions": [1,1],
     "verifyTest"    : [-1, -1],
