@@ -1,7 +1,7 @@
 {
     "moduleList"    : 5,
     "moduleCode"    : ["Bank2", "Bank1", "Bank3", "Bank4", "Bank5"],
-    "moduleName"    : ["Module 9", "Module 8", "Module 7 part 2", "Module 15 part 2", "Module 7 part 1"],
+    "moduleName"    : ["Module 9", "Module 10", "Module 7 part 2", "Module 15 part 2", "Module 7 part 1"],
     "moduleVersions": [1, 1, 1, 1, 1],
     "verifyTest"    : [-1, -1, -1, -1, -1],
     "subPart"       : [[1], [1], [1], [1], [1]]
