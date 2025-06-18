@@ -1,7 +1,7 @@
 {
     "moduleList"    : 5,
-    "moduleCode"    : ["Bank2", "Bank1", "Bank3", "Bank4", "Bank5"],
-    "moduleName"    : ["Module 11 - General concepts", "Module 10", "Module 7 part 2", "Module 15 part 2", "Module 11 - Theory of Flight"],
+    "moduleCode"    : ["Bank1", "Bank2", "Bank3", "Bank4", "Bank5"],
+    "moduleName"    : ["ATA 27", "Module 11 - Aero Planes", "ATA 31", "ATA 22 + 23 + 34", "ATA 25"],
     "moduleVersions": [1, 1, 1, 1, 1],
     "verifyTest"    : [-1, -1, -1, -1, -1],
     "subPart"       : [[1], [1], [1], [1], [1]]
