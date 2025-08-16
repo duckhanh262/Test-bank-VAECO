@@ -1,11 +1,12 @@
 {
-    "moduleList"    : 12,
-    "moduleCode"    : ["Bank1", "Bank2", "Bank3", "Bank4", "Bank5", "Bank6", "Bank8", "Bank12", "Bank7", "Bank9", "Bank10", "Bank11"],
-    "moduleName"    : ["ATA 45", "ATA 42", "ATA 35", "ATA 36", "ATA 21", "ATA 30", "Module 1", "Module 2", "Module 3", "Module 10", "M11 - General Concepts", "M11 - Theory of Flight"],
-    "moduleVersions": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
-    "verifyTest"    : [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1],
-    "subPart"       : [[1], [1], [1], [1], [1], [1], [1], [1], [1], [1], [1], [1]]
+    "moduleList"    : 7,
+    "moduleCode"    : ["Bank1", "Bank2", "Bank3", "Bank4", "Bank5", "Bank6", "Bank7"],
+    "moduleName"    : ["ATA 45", "ATA 42", "ATA 35", "ATA 36", "ATA 21", "ATA 30", "Module 5"],
+    "moduleVersions": [1, 1, 1, 1, 1, 1, 1],
+    "verifyTest"    : [-1, -1, -1, -1, -1, -1, -1],
+    "subPart"       : [[1], [1], [1], [1], [1], [1], [1]]
 }
+
 
 
 
