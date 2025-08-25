@@ -1,11 +1,12 @@
 {
-    "moduleList"    : 7,
-    "moduleCode"    : ["Bank1", "Bank2", "Bank3", "Bank4", "Bank5", "Bank6", "Bank7"],
-    "moduleName"    : ["ATA 45", "ATA 42", "ATA 35", "ATA 36", "ATA 21", "ATA 30", "Module 5"],
-    "moduleVersions": [1, 1, 1, 1, 1, 1, 1],
-    "verifyTest"    : [-1, -1, -1, -1, -1, -1, -1],
-    "subPart"       : [[1], [1], [1], [1], [1], [1], [1]]
+    "moduleList"    : 2,
+    "moduleCode"    : ["Bank1", "Bank2",
+    "moduleName"    : ["Module 6 part 1", "Module 6 part 2"],
+    "moduleVersions": [1, 1],
+    "verifyTest"    : [-1, -1],
+    "subPart"       : [[1], [1]]
 }
+
 
 
 
