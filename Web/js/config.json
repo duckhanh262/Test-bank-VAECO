@@ -1,11 +1,12 @@
 {
-    "moduleList"    : 7,
-    "moduleCode"    : ["Bank1", "Bank2", "Bank3", "Bank4", "Bank5", "Bank6", "Bank7"],
-    "moduleName"    : ["ATA 27", "M11 - Airframe Structures", "ATA 31", "ATA 22/23/34", "ATA 25", "M1", "M2"],
-    "moduleVersions": [1, 1, 1, 1, 1, 1, 1],
-    "verifyTest"    : [-1, -1, -1, -1, -1, -1, -1],
-    "subPart"       : [[1], [1], [1], [1], [1], [1], [1]]
+    "moduleList"    : 6,
+    "moduleCode"    : ["Bank1", "Bank2", "Bank3", "Bank4", "Bank5", "Bank6"],
+    "moduleName"    : ["ATA 26", "ATA 24", "ATA 28", "ATA 29", "ATA 32", "M3"],
+    "moduleVersions": [1, 1, 1, 1, 1, 1],
+    "verifyTest"    : [-1, -1, -1, -1, -1, -1],
+    "subPart"       : [[1], [1], [1], [1], [1], [1]]
 }
+
 
 
 
